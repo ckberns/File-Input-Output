@@ -1,0 +1,1 @@
+This program performs simple file handling by prompting the user to enter their full name, as well as a series of test scores. This information will be processed, then written to a new .txt file that will be saved within the project directory. Finally, the program will output the entered information to the user.
